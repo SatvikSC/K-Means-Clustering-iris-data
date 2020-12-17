@@ -1,6 +1,8 @@
-# K--Means-Clustering-iris-data-
-# Prediction using Unsupervised ML (Level - Beginner)
 
+# Prediction using Unsupervised ML (Level - Beginner)
+# K-Means-Clustering-iris-data
+
+Author:Surendran R
 
 ### K- Means Clustering
 
